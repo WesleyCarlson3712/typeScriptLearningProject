@@ -1,0 +1,24 @@
+# Compiled JavaScript and type definitions
+*.js
+*.d.ts
+*.d.ts.map
+*.js.map
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
