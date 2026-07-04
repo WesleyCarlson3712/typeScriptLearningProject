@@ -41,7 +41,7 @@ const root: Node = {
 
 // The main function that demonstrates the use of the factorial and printTree functions
 function main(): void {
-  const num: number = 5
+  const num: number = 6
   console.log(`Factorial of ${num} is ${factorial(num)}`)
   printTree(root)
 }

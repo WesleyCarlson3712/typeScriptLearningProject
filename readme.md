@@ -1,68 +1,30 @@
 # Overview
+I have worked on this project for 2 weeks with the goal to learn how to use the TypeScript programming language in practical ways. 
+I already had some JavaScript experience going into this project, but there has been a lot more to learn than i anticipated. 
+This project is split into 3 parts, where I demonstrate the concepts of classes and inheritance, file reading and error handling, and recursion.
+I decided to break this project into parts so i could focus more on the language than making a single large product.
+The classes demo is a short battle simulator between a hero and monster, which are both subclasses of a character class.
+The file reading demo loads user data from a given json file, ensuring the file is valid and that it is of a correct structure
+The recursion demo both demonstrates a factorial function and a function to print nodes in a tree structure
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kqwmzmvWYB0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This project was made entirely in visual studio code using typescript and node.
+It uses the readFileSync library for filereading and promptSnc for user input.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Copilot AI](https://copilot.microsoft.com/)
+- [W3schools TypeScript tutorial](https://www.w3schools.com/typescript/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
-
-# Overview
-
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
-# Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+While this isn't a single project I can plan future work for, I do think I would like to continue using TypeScript in the future.
+I have found learning the language to be quite fun and interesting and could make good use of the skills I have developed.
 
 # Instructions
 ## 1. Download the project 
