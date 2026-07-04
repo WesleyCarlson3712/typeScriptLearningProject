@@ -1,14 +1,16 @@
+// A simple recursive function to calculate the factorial of a number
 function factorial(n: number): number {
   if (n <= 1) return 1
   return n * factorial(n - 1)
 }
 
-
+// the Node type represents a node in a tree structure, with a name and an array of child nodes
 type Node = {
   name: string
   children: Node[]
 }
 
+// prints the tree structure of nodes, with indentation to represent depth
 function printTree(node: Node, indent: string = ""): void {
   console.log(indent + node.name)
   for (const child of node.children) {
@@ -16,6 +18,7 @@ function printTree(node: Node, indent: string = ""): void {
   }
 }
  
+// Example tree structure to demonstrate the printTree function
 const root: Node = {
   name: "parent",
   children: [
@@ -36,7 +39,7 @@ const root: Node = {
   ]
 }
 
-
+// The main function that demonstrates the use of the factorial and printTree functions
 function main(): void {
   const num: number = 5
   console.log(`Factorial of ${num} is ${factorial(num)}`)
