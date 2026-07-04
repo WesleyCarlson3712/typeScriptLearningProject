@@ -16,8 +16,6 @@ It uses the readFileSync library for filereading and promptSnc for user input.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Copilot AI](https://copilot.microsoft.com/)
 - [W3schools TypeScript tutorial](https://www.w3schools.com/typescript/)
 
