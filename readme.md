@@ -30,8 +30,8 @@ I have found learning the language to be quite fun and interesting and could mak
 - Extract the ZIP file to a folder on your computer.
 - Alternatively, if you have Git installed, you can clone directly:
   ```
-  git clone https://github.com/your-username/your-repo-name.git
-  cd your-repo-name
+  git clone https://github.com/WesleyCarlson3712/typeScriptLearningProject.git
+  cd typeScriptLearningProject
   ```
 ## 2. Install dependencies
 Open a terminal in the project folder and run:
